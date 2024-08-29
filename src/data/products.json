@@ -435,7 +435,7 @@
   {
     "id": "28",
     "sku": "asdf150",
-    "name": "KIT COOKIE & COFFEE",
+    "name": "KIT COOKIE & COFFE",
     "price": 450,
     "discount": 0,
     "new": false,
@@ -444,7 +444,7 @@
     "category": ["Productos Kits"],
     "tag": ["Productos Kits"],
     "image": [
-      "/assets/img/product/conejillo/Kit The Cookie Fly.webp"],
+      "/assets/img/product/conejillo/Kit Cookie & Coffee.jpg"],
     "stock": 10,
     "shortDescription": "Perfecta para una dulce y armoniosa combinación. Peso/Dimensiones: 300 g / 15 cm x 10 cm x 5 cm. Duración y Conservación: Mantener en un lugar fresco y seco. Consumir antes de 6 meses. Valor Nutricional: 250 kcal por porción, 10 g de grasa, 35 g de carbohidratos, 5 g de proteína. "
   },
