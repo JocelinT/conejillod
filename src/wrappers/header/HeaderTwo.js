@@ -26,19 +26,15 @@ const HeaderTwo = () => {
 
   return (
     <header className="header-area clearfix header-hm9 transparent-bar">
-      <div className="container">
+      {/* <div className="container">
         <div className="header-top-area d-none d-lg-block">
           <div className="row">
-            <div className="col-lg-2 d-none d-lg-block text-center">
-              {/* header logo */}
-              <Logo
-                imageUrl="/assets/img/logo/logo.png"
-                logoClass="logo-hm-9"
-              />
+            <div className="col-lg-12 col-md-6 col-12">
+              
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div
         className={`header-bottom sticky-bar header-res-padding header-padding-2 ${
           scroll > headerTop ? "stick" : ""
@@ -50,10 +46,10 @@ const HeaderTwo = () => {
               {/* header logo */}
               <Logo imageUrl="/assets/img/logo/logo.png" />
             </div>
-            <div className="col-6 d-block d-lg-none">
-              {/* Icon group */}
-              <IconGroup imageUrl="/assets/favicon.ico"/>
-            </div>
+            {/* <div className="col-6 d-block d-lg-none">
+              {/* Icon group 
+              <IconGroup />
+            </div> */}
             <div className="col-xl-12 col-lg-12 d-none d-lg-block">
               {/* Nav menu */}
               <NavMenu />

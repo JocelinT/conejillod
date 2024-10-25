@@ -16,13 +16,13 @@ const MobileNavMenu = () => {
           </Link>
         </li>   
         <li>
-          <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-            {t("colleccion")}
-          </Link>
-        </li> 
-        <li>
           <Link to={process.env.PUBLIC_URL + "/contact"}>
-            {t("contacto")}
+            {t("Contacto")}
+          </Link>
+        </li>
+        <li>
+          <Link to={process.env.PUBLIC_URL + "/blog-details-standard"}>
+            {t("Blog")}
           </Link>
         </li>
       </ul>

@@ -8,6 +8,9 @@ import { addToCart } from "../../store/slices/cart-slice";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
 import { addToCompare } from "../../store/slices/compare-slice";
 
+const currency = {
+  currencySymbol: "$"
+};
 const ProductDescriptionInfo = ({
   product,
   discountedPrice,
@@ -62,7 +65,37 @@ const ProductDescriptionInfo = ({
         ""
       )}
       <div className="pro-details-list">
-        <p>{product.shortDescription}</p>
+        <p>{product.shortDescription}</p><br/>
+
+        {/* Detalles adicionales */}
+      <div className="additional-info">
+      
+        {product.weightDimensions && (
+          <div className="info-item">
+            <strong>Peso y Dimensiones:</strong> {product.weightDimensions}
+          </div>
+        )}
+
+        {product.durationConservation && (
+          <div className="info-item">
+            <strong>Duración y Conservación:</strong> {product.durationConservation}
+          </div>
+        )}
+
+        {product.nutritionalValue && (
+          <div className="info-item">
+            <strong>Valor Nutricional:</strong> {product.nutritionalValue}
+          </div>
+        )}
+        
+        {product.microdoseLevel && (
+          <div className="info-item">
+            <strong>Nivel de Microdosis:</strong> {product.microdoseLevel}
+          </div>
+        )}
+      </div>
+
+
       </div>
 
       {product.variation ? (
@@ -266,7 +299,7 @@ const ProductDescriptionInfo = ({
       <div className="pro-details-social">
         <ul>
           <li>
-            <a href="//facebook.com">
+            <a href="https://www.facebook.com/ConejilloDeCampo.mx/">
               <i className="fa fa-facebook" />
             </a>
           </li>
@@ -286,7 +319,7 @@ const ProductDescriptionInfo = ({
             </a>
           </li> */}
           <li>
-            <a href="//instagram.com">
+            <a href="https://www.instagram.com/conejillodecampo.mx02/">
               <i className="fa fa-instagram" />
             </a>
           </li>

@@ -2,39 +2,44 @@ import React, { Fragment } from "react";
 import SEO from "../../components/seo";
 import LayoutTwo from "../../layouts/LayoutTwo";
 import HeroSliderSix from "../../wrappers/hero-slider/HeroSliderSix";
+import BannerOne from "../../wrappers/banner/BannerOne";
+import RelatedProductSlider from "../../wrappers/product/RelatedProductSlider";
 import BannerSix from "../../wrappers/banner/BannerSix";
-import TabProductFour from "../../wrappers/product/TabProductFour";
-import TestimonialOne from "../../wrappers/testimonial/TestimonialOne";
-import NewsletterTwo from "../../wrappers/newsletter/NewsletterTwo";
 import BannerSeven from "../../wrappers/banner/BannerSeven";
+import CTASection from '../other/CTASection';
 
 const HomeFlowerShop = () => {
+  
   return (
     <Fragment>
       <SEO
         titleTemplate="Conejillo"
-        description="Flower Shop home of flone react minimalist eCommerce template."
+        description="La cultura cannábica no se lee, se prueba."
       />
       <LayoutTwo>
         {/* hero slider */}
         <HeroSliderSix />
+
         {/* banner */}
-        <BannerSix spaceTopClass="pt-100" spaceBottomClass="pb-80" />
+        <BannerOne spaceTopClass="pt-95" spaceBottomClass="pb-70" />
+        
+        {/* related product slider */}
+        <RelatedProductSlider
+          spaceBottomClass="pb-95"
+          category="Productos Individuales"
+        />
+
+        <BannerSix spaceTopClass="pt-100" spaceBottomClass="pb-80" 
+        />
         {/* tab product */}
-        <TabProductFour
-          spaceBottomClass="pb-100"
-          category="flower"
-          productTabClass="product-tab-pink2"
-        />
-        {/* testimonial */}
-        <TestimonialOne />
-        {/* banner */}
+
         <BannerSeven spaceTopClass="pt-95" spaceBottomClass="pb-70" />
-        {/* newsletter */}
-        <NewsletterTwo
-          spaceBottomClass="pb-100"
-          subscribeBtnClass="pink-subscribe"
-        />
+
+        <CTASection
+        buttonText="Descubre Lo Mejor de Nosotros"
+        buttonLink={process.env.PUBLIC_URL + "/shop-grid-standard"}
+        spaceBottomClass="pb-80" />
+        
       </LayoutTwo>
     </Fragment>
   );

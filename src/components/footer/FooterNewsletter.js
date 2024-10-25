@@ -15,7 +15,7 @@ const FooterNewsletter = ({
         <h3>CONEJILLO</h3>
       </div>
       <div className={clsx("subscribe-style", colorClass)}>
-        <p>Productos Pato de calidad y variedad. Explora nuestro catálogo interactivo y compra de manera segura.</p>
+        <p>Productos de cannabis de calidad y variedad. Explora nuestro catálogo interactivo y compra de manera segura.</p>
         
       </div>
     </div>
