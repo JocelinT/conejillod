@@ -13,7 +13,7 @@
     "image": [
       "/assets/img/product/conejillo/Café-Clásico.webp"],
     "stock": 10,
-    "shortDescription": "Ideal para aquellos que desean introducirse en la cultura cannábica o introducir a otros.",
+    "shortDescription": "Ideal para aquellos que desean introducirse en la cultura pato o introducir a otros.",
     "weightDimensions": "80 g",
     "durationConservation": " ",
     "nutritionalValue": " ",
@@ -33,7 +33,7 @@
     "image": [
       "/assets/img/product/conejillo/Café-Espresso.webp"],
     "stock": 10,
-    "shortDescription": "Mismo efecto y concentración de THC del café clásico, con el concentrado, tesitura y densidad del espresso.",
+    "shortDescription": "Mismo efecto y concentración de PATO del café clásico, con el concentrado, tesitura y densidad del espresso.",
     "weightDimensions": "80 g",
     "durationConservation": " ",
     "nutritionalValue": " ",
@@ -43,7 +43,7 @@
   {
     "id": "3",
     "sku": "asdf125",
-    "name": "CBD COFFE",
+    "name": "PATO COFFE",
     "price": 280,
     "discount": 0,
     "new": false,
@@ -52,7 +52,7 @@
     "category": ["Productos Individuales"],
     "tag": ["Productos Individuales"],
     "image": [
-      "/assets/img/product/conejillo/Café Golden.webp"],
+      "/assets/img/product/conejillo/Café-Golden.webp"],
     "stock": 10,
     "shortDescription": "Una gran demanda de este café libre del ingrediente psicoactivo de la planta.",
     "weightDimensions": "80 g",
@@ -63,7 +63,7 @@
   {
     "id": "4",
     "sku": "asdf126",
-    "name": "EDICIÓN ESPECIAL CLÁSICO O CBD",
+    "name": "EDICIÓN ESPECIAL CLÁSICO O PATO",
     "price": 280,
     "discount": 0,
     "new": false,
@@ -74,7 +74,7 @@
     "image": [
       "/assets/img/product/conejillo/Café-Edición-Especial.webp"],
     "stock": 10,
-    "shortDescription": "Edición especial para amantes de la lucha libre. Contenido: café clásico o café con CBD.",
+    "shortDescription": "Edición especial para amantes de la lucha libre. Contenido: café clásico o café con PATO.",
     "weightDimensions": "80 g",
     "durationConservation": " ",
     "nutritionalValue": " ",
@@ -94,7 +94,7 @@
     "image": [
       "/assets/img/product/conejillo/Go to Sleep Cookie.webp"],
     "stock": 10,
-    "shortDescription": "Galleta con dosis ideal de extracto de CBD para dormir profundamente.",
+    "shortDescription": "Galleta con dosis ideal de extracto de PATO para dormir profundamente.",
     "weightDimensions": "27 g",
     "durationConservation": " ",
     "nutritionalValue": " ",
@@ -132,7 +132,7 @@
     "category": ["Productos Individuales"],
     "tag": ["Productos Individuales"],
     "image": [
-      "/assets/img/product/conejillo/The-Choco-Fly.webp"],
+      "/assets/img/product/conejillo/The Choco Fly.webp"],
     "stock": 10,
     "shortDescription": "Prácticamente es un buen porro. Los efectos se perciben 1 ó 2 horas después de su consumo.",
     "weightDimensions": "27 g",
@@ -154,7 +154,7 @@
     "image": [
       "/assets/img/product/conejillo/Granola Punch.webp"],
     "stock": 10,
-    "shortDescription": "Se recomienda moderación. Para aquellos que gustan de los efectos del THC, el efecto se sentirá en 2 hrs.",
+    "shortDescription": "Se recomienda moderación. Para aquellos que gustan de los efectos del PATO, el efecto se sentirá en 2 hrs.",
     "weightDimensions": "27 g",
     "durationConservation": " ",
     "nutritionalValue": " ",
@@ -173,7 +173,6 @@
     "tag": ["Productos Individuales"],
     "image": [
       "/assets/img/product/conejillo/Crema-de-Cacahuate.webp"],
-    "stock": 10,
     "shortDescription": "Sugerencia 1 cucharada. Ideal para mantenerse relajado durante el día Modo Zen.",
     "weightDimensions": "120 g",
     "durationConservation": " ",
@@ -203,7 +202,7 @@
   {
     "id": "11",
     "sku": "asdf133",
-    "name": "CAJETA CANNÁBICA",
+    "name": "CAJETA PATO",
     "price": 480,
     "discount": 0,
     "new": false,
@@ -234,7 +233,7 @@
     "image": [
       "/assets/img/product/conejillo/Sidra Ámbar.webp"],
     "stock": 10,
-    "shortDescription": "Consuma con moderación. Sugerencia: 1 cda. Acción cannábica de 350 mg por botella.",
+   "shortDescription": "Consuma con moderación. Sugerencia: 1 cda. Acción pato de 350 mg por botella.",
     "weightDimensions": "60 ml",
     "durationConservation": " ",
     "nutritionalValue": " ",
@@ -283,7 +282,7 @@
   {
     "id": "15",
     "sku": "asdf137",
-    "name": "POMADA CANNÁBICA",
+    "name": "POMADA PATO",
     "price": 480,
     "discount": 0,
     "new": false,
@@ -352,7 +351,7 @@
     "category": ["Productos Kits"],
     "tag": ["Productos Kits"],
     "image": [
-      "/assets/img/product/conejillo/Kit-Choco-Fly.webp"],
+      "/assets/img/product/conejillo/Kit+Choco+Fly.webp"],
     "stock": 10,
     "shortDescription": "2 paquetes de galletas con chispas de chocolate activas.",
     "weightDimensions": "200 g / 15 cm x 10 cm x 5 cm",
@@ -394,7 +393,7 @@
     "image": [
       "/assets/img/product/conejillo/Kit Go to the Sleep.webp"],
     "stock": 10,
-    "shortDescription": "Tú necesitas un sueño reparador y un descanso único. Con la composición exacta de CBD, para un sueño profundo.",
+    "shortDescription": "Tú necesitas un sueño reparador y un descanso único. Con la composición exacta de PATO, para un sueño profundo.",
     "weightDimensions": "100 g / 10 cm x 10 cm x 2 cm",
     "durationConservation": "Mantener en un lugar fresco y seco. Consumir antes de 3 meses.",
     "nutritionalValue": "230 kcal por porción, 8 g de grasa, 30 g de carbohidratos, 3 g de proteína",
@@ -434,7 +433,7 @@
     "image": [
       "/assets/img/product/conejillo/Happy Motiquin_11zon.webp"],
     "stock": 10,
-    "shortDescription": "Set de 6 piezas: café a elegir, galleta Choco Fly, lubricante cannábico, pomada, pin y periódico oficial.",
+    "shortDescription": "Set de 6 piezas: café a elegir, galleta Choco Fly, lubricante pato, pomada, pin y periódico oficial.",
     "weightDimensions": "600 g / 25 cm x 20 cm x 15 cm",
     "durationConservation": "Mantener en un lugar fresco y seco. Consumir antes de 6 meses.",
     "nutritionalValue": "Variable según el contenido del set",
@@ -543,7 +542,7 @@
   {
     "id": "28",
     "sku": "asdf150",
-    "name": "KIT COOKIE & COFFEE",
+    "name": "KIT COOKIE & COFFE",
     "price": 450,
     "discount": 0,
     "new": false,
@@ -552,7 +551,7 @@
     "category": ["Productos Kits"],
     "tag": ["Productos Kits"],
     "image": [
-      "/assets/img/product/conejillo/Kit The Cookie Fly.webp"],
+      "/assets/img/product/conejillo/Kit Cookie & Coffee.jpg"],
     "stock": 10,
     "shortDescription": "Perfecta para una dulce y armoniosa combinación.",
     "weightDimensions": "300 g / 15 cm x 10 cm x 5 cm",
@@ -634,7 +633,7 @@
     "image": [
       "/assets/img/product/conejillo/Seven Tester.webp"],
     "stock": 10,
-    "shortDescription": "7 latas, 7 experiencias distintas: Café clásico 17g, CBD 11g, espresso 11g, crema cacahuate 40g, pomada 25g, granola 20g y 1 galleta ponedora.",
+    "shortDescription": "7 latas, 7 experiencias distintas: Café clásico 17g, PATO 11g, espresso 11g, crema cacahuate 40g, pomada 25g, granola 20g y 1 galleta ponedora.",
     "weightDimensions": "400 g / 20 cm x 15 cm x 10 cm",
     "durationConservation": "Mantener en un lugar fresco y seco. Consumir antes de 6 meses.",
     "nutritionalValue": "Variable según el contenido del set",

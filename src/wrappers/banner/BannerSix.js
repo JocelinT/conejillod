@@ -20,7 +20,7 @@ const BannerSix = ({ spaceTopClass, spaceBottomClass }) => {
               <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/banner/Kits.webp"
+                    process.env.PUBLIC_URL + "/assets/img/banner/Kits.png"
                   }
                   alt=""
                 />
@@ -38,7 +38,7 @@ const BannerSix = ({ spaceTopClass, spaceBottomClass }) => {
               <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                 <img
                   src={
-                    process.env.PUBLIC_URL + "/assets/img/banner/Individuales.webp"
+                    process.env.PUBLIC_URL + "/assets/img/banner/Individuales.png"
                   }
                   alt="Cafe Golden"
                 />
